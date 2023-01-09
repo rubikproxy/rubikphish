@@ -50,7 +50,7 @@ If you need an localxpose link .You need to sign up on this https://localxpose.i
   ```
   git clone https://github.com/rubikproxy/rubikphish.git
   ```
-- Now go to cloned directory and run `rubikphish.sh` -
+- Now go to cloned directory and run `rubikphish.sh` 
   ```
   $ cd rubikphish
   $ chomd +x rubikphish.sh
@@ -86,3 +86,7 @@ If you need an localxpose link .You need to sign up on this https://localxpose.i
 <p align="center">
   <a href="https://ibb.co/MRL7GLL"><img src="https://i.ibb.co/dQyDLyy/rubikphish.png" alt="rubikphish" border="0"></a>
 </p>
+
+
+https://user-images.githubusercontent.com/84948167/211233979-820d6f3f-68a1-401c-88d5-2530a83bdb06.mp4
+
