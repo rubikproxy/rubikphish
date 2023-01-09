@@ -88,5 +88,4 @@ If you need an localxpose link .You need to sign up on this https://localxpose.i
 </p>
 
 
-https://user-images.githubusercontent.com/84948167/211233979-820d6f3f-68a1-401c-88d5-2530a83bdb06.mp4
 
