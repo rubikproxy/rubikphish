@@ -79,6 +79,7 @@ If you need an localxpose link .You need to sign up on this https://localxpose.i
 - Manjaro
 - Fedora
 - Termux
+- Kali Linux
 </details>
 <h3 align="center">Workflow</h3>
 
