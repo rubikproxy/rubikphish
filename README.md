@@ -88,7 +88,7 @@ If you need an localxpose link .You need to sign up on this https://localxpose.i
 </p>
 
 <iframe width="420" height="315"
-src="https://youtu.be/RLeJTOmslao?autoplay=1&mute=1">
+src="https://youtu.be/RLeJTOmslao">
 </iframe>
 
 
