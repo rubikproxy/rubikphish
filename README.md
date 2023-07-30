@@ -53,7 +53,7 @@ If you need an localxpose link .You need to sign up on this https://localxpose.i
 - Now go to cloned directory and run `rubikphish.sh` 
   ```
   $ cd rubikphish
-  $ chomd +x rubikphish.sh
+  $ chmod +x rubikphish.sh
   $ bash rubikphish.sh
   ```
 
